@@ -9,7 +9,7 @@ known as the **ultraviolet catastrophe**.
 
 At the end of the 19th century, classical physics predicted that a hot
 object should radiate energy that increases without bound as frequency
-increases — the Rayleigh–Jeans law. Experimentally, this isn't what
+increases the Rayleigh–Jeans law. Experimentally, this isn't what
 happens: radiated energy rises, peaks, then falls back to zero. This
 mismatch was one of the key puzzles that classical physics couldn't
 explain.
