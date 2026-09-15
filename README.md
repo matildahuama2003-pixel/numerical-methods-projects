@@ -1,7 +1,7 @@
 # Blackbody Radiation: Classical vs. Quantum
 
 A short notebook comparing two theoretical predictions for the spectral energy
-density of blackbody radiation — the **Rayleigh–Jeans law** (classical) and
+density of blackbody radiation the **Rayleigh–Jeans law** (classical) and
 **Planck's law** (quantum) and visualizing the divergence between them
 known as the **ultraviolet catastrophe**.
 
